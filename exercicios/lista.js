@@ -1,6 +1,6 @@
 //Lista Ricardo Miyamoto 2348144
 
-//1. Escreva uma função que calcule e retorne o fatorial de um número.
+//1. Escreva uma função que calcule e retorne o fatorial de um número
 
 function fatorial(valor){
     var fat = valor-1
