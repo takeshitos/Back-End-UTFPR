@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', function() {
             tarefa.value = '';
         }
     });
-
+//teste
     function addTarefa(taskText) {
         const li = document.createElement('li');
         li.textContent = taskText;
